@@ -1,9 +1,11 @@
 # STS_Dataset
-Sit-to-stand data from xsens suit, balance board and seating mat from 25 healthy and 6 stroke participants. 
+Sit-to-stand data from xsens suit, balance board and seating mat from 25 healthy (a01, a02 etc) and 6 stroke (b01, b02 etc) participants. 
 
 Created by Tom Bennett and Virginia Ruiz Garate, 2022. 
 
-Reference this dataset using the accompanying DOI if you use it in your own research.
+Reference this dataset using the accompanying DOI below if you use it in your own research.
+
+DOI: 10.5281/zenodo.6400938 
 
 ### 31 zip folders containing data for individual users, each comprising of: 
 
