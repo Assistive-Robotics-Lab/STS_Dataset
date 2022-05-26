@@ -1,5 +1,5 @@
 # STS_Dataset
-Sit-to-stand data from xsens suit, balance board and seating mat from 25 healthy (a01, a02 etc) and 6 stroke (b01, b02 etc) participants. 
+Sit-to-stand data from xsens suit, balance board and seating mat from 24 healthy (a01, a02 etc) and 6 stroke (b01, b02 etc) participants. 
 
 Created by Tom Bennett and Virginia Ruiz Garate, 2022. 
 
@@ -56,4 +56,4 @@ Columns contain Header (timestamp), then numbers 0 through 255. each row can be 
 
 
 ## Notes
-Some participant folders contain a Notes.txt file. This indicated whether any of the trials failed to record properly, and have been removed. 
+Some participant folders contain a Notes.txt file. This indicated whether any of the trials failed to record properly, and have been removed. Participant a09 has been removed from the dataset due to sensor errors discovered when processing the xsens data. These errors were not present for any other participants.
